@@ -1,0 +1,30 @@
+@{
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+
+}
+@* @model Book_Store.Controllers.UserController.FormSaveNewUser *@
+      
+<form style="width: 394px; margin: 30px auto; border-left: 5px solid #d0d0d0; padding: 25px 30px;" method="post">
+    <a href="/" style="text-decoration: none; font-size: 31px;padding: 0 5px;"><--</a>
+    
+    <h1>EDIT INFO</h1>
+
+    <div style="width: 300px; margin: 10px auto;">
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">name</label>
+        <input type="name" name="name" class="form-control Name" placeholder="" id="exampleInputPassword1">
+    </div>
+
+    <div class="mb-3" >
+        <label for="exampleInputPhone1" class="form-label">Phone Number</label>
+        <input type="text" name="phone" class="form-control PhoneNumber" placeholder=""  id="exampleInputPassword1">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Address</label>
+        <input type="Phone" name="address" class="form-control Address  " placeholder="" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+        @* <span style="color:red;">@ViewBag.mess</span><br> *@
+    
+    <button type="submit" style="width: 100%; height: 40px;" class="btn-primary">UPDATE</button>
+</form>
+</div>

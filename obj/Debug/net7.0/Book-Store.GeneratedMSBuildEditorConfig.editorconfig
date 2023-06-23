@@ -1,0 +1,120 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Book_Store
+build_property.RootNamespace = Book_Store
+build_property.ProjectDir = D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/Authors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/Books.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/CreateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/CreateBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/UpdateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlQXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/UpdateBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlQm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Admin/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Bookstore/ChiTiet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3N0b3JlXENoaVRpZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Bookstore/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3N0b3JlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Bookstore/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3N0b3JlXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Bookstore/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3N0b3JlXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Order/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Shared/_OrderLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmRlckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hocTap/C\#/doan/2055010142_HoangTrungKien/Book-Store/Book-Store/Book-Store/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ifyxhpj0jc

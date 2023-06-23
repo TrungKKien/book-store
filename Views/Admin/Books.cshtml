@@ -1,0 +1,80 @@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Book_Store.Controllers.AdminController.BooksViewModel
+<!-- Page Heading -->
+<h1 class="h3 mb-2 text-gray-800">Books</h1>
+<p class="mb-4">Show list of Books from Database</p>
+
+<!-- End Page Heading -->
+<a style="margin-bottom: 20px;" href="/admin/CreateBook" class="btn btn-primary btn-icon-split btn-sm">
+    <span class="icon text-white-30">
+        <i class="fas fa-plus"></i>
+    </span>
+    <span class="text">Add new Book</span>
+</a>
+                    <!-- Page Heading -->
+                <div class="container-fluid">
+                    <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
+                        <div class="card-header py-3">
+                            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th>Name</th>
+                                            <th>author</th>
+                                            <th>category</th>
+                                            <th>img</th>
+                                            <th>price</th>
+                                            <th>number</th> 
+                                            @* <th>Description</th> *@
+                                        </tr>
+                                    </thead>
+                                    
+                                    <tbody>
+                                        @foreach (var item in Model.books)
+                                        {
+                                        <tr>
+                                            <td>@item.Name</td>
+                                            <td>@foreach (var author in Model.authors)
+                                            {
+                                                if (@author.Id == @item.AuthorId)
+                                                {
+                                                    @author.Name;                                                    
+                                                }
+                                            }</td>
+                                            <td>@foreach (var cate in Model.categories)
+                                            {
+                                                if (@cate.Id == @item.CategoryId)
+                                                {
+                                                    @cate.Name;                                                    
+                                                }
+                                            }</td>
+                                            <td> <img src=" @item.Image" alt="" style="width: 80px;"> </td>
+                                            <td>@item.Price</td>
+                                            <td>@item.Number</td>
+                                            @* <td style="max-height: 150px; overflow: hidden;">@item.Discription</td> *@
+                                            <td>
+                                                <a href="/Admin/UpdateBook/@item.Id" class="btn btn-info btn-icon-split">
+                                                    <span class="icon text-white-50">
+                                                        <i class="fas fa-edit"></i>
+                                                    </span>
+                                                </a>
+                                                <a href="/Admin/DeleteBook/@item.Id" class="btn btn-danger btn-icon-split">
+                                                    <span class="icon text-white-50">
+                                                        <i class="fas fa-trash"></i>
+                                                    </span>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>

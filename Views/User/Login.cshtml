@@ -1,0 +1,27 @@
+@{
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+
+}
+
+      
+<form style="width: 394px;
+    margin: 30px auto;
+    border-left: 5px solid #d0d0d0;
+    padding: 14px;
+    padding: 49px;" action="/User/XuLyLogin" method="post">
+<div style="width: 300px; margin: 5px auto;">
+<h1>LOGIN</h1>
+  <div class="mb-3" >
+    <label for="exampleInputPhone1" class="form-label">Phone Number</label>
+    <input type="Phone" name="Phone" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    @* <div id="emailHelp" class="form-text">We'll never share your Phone with anyone else.</div> *@
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Password</label>
+    <input type="password" name="Pass" class="form-control" id="exampleInputPassword1">
+  </div>
+  <button type="submit" style="width: 49%; height: 40px;" class="btn btn-primary">Submit</button>
+  <button type="button" class="btn btn-danger" style="width: 49%; height: 40px;">  <a href="/user/register" style="color: white;">register</a></button>
+
+</form>
+</div>

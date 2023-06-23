@@ -1,0 +1,30 @@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Book_Store.Controllers.AdminController.UpdateCategoryviewmodel
+<!--Page Heading -->
+<h1 class="h3 mb -2 text-gray-800">Update New Category  </h1>
+<p class="mb-4">Update a new category into database</p>
+<form action="/Admin/SaveUpdateCategory?id=@Model.category.Id" method="post">
+<!--End Page Heading -->
+
+    <div class="form-group">
+       
+        <input name="id" type="hidden" class="form-control" id="IDInput" value="@Model.category.Id">
+    </div>
+
+    <div class="form-group">
+        <label for="NameInput">Name of category </label>
+        <input name="name" type="text" class="form-control" id="nameIput" placeholder="Please enter the description" value="@Model.category.Name">
+    </div>
+    <div class="descriptionInput">
+        <label for="NameInput">Description </label>
+        <textarea type="text" class="form-control" id="descriptionInput" name="description"  cols="30" rows="10" value="">@Model.category.Description</textarea>
+    </div>
+    <br>
+    <a href="/Admin/Categories" class="btn btn-primary btn-icon-split btn-md">
+        <button type="button" class="btn btn-secondary" onclick="history.back()">Back</button>
+        <button type="submit" class="btn btn-primary btn-icon-split btn-md">
+            <span class="icon text-white-30"><i class="fas fa-plus"></i></span>
+            <span class="text">Update new Category</span>
+</form>

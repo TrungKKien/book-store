@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    height: 95vh;
+    max-width:180vb;
+    margin: 0 auto;
+    background-image: url('	https://cutepics.net/wp-content/uploads/2020/08/cute-deer-hd-images-for-desktop-background-6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 5;
+    position: relative;
+    margin-top: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
+}
+.bg{
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    transition: 0.5s;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 55px;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.form{
+    max-width: 50vh;
+    margin: 125px auto;
+    z-index: 10;
+    transition: 1s;
+
+}
+#row input{
+    margin: 10px 0px;
+    border-radius: 20px;
+
+}
+#row .btn1{
+    border-radius: 20px;
+    margin: 20px auto;
+    width: 100%;
+
+}
+#row{
+}
+.mx-sm-3 {
+    margin-left: 0 !important;
+}
+.none{
+    display: none;
+}
+.btn2{
+    border-radius: 20px;
+    width: 100%;
+    border: 2px solid rgb(67, 67, 67);
+    background: rgba(255, 255, 255, 0.5);
+    margin-top: 10vh;
+}
+.right{
+    /* transition: ; */
+    transform: translateX(100%);
+    transition: 0.5s;
+}
+.form-login{
+    /* transform: translateX(100%); */
+    transition: 1s;
+
+}
+.text2 {
+    color: white;
+    text-align: center;
+}
+.text1{
+    text-align: center;
+    color: white;
+}
+h2{
+    font-size: 50px;
+}

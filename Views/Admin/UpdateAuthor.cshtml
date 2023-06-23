@@ -1,0 +1,33 @@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Book_Store.Controllers.AdminController.UpdateAuthorviewmodel
+<!--Page Heading -->
+<h1 class="h3 mb -2 text-gray-800">Update Author</h1>
+<p class="mb-4">Update a new author into database</p>
+<form action="/Admin/SaveUpdateAuthor?id=@Model.author.Id" method="post">
+<!--End Page Heading -->
+
+    <div class="form-group">
+        <input name="id" type="hidden" class="form-control" id="IDInput" value="@Model.author.Id">
+    </div>
+
+    <div class="form-group">
+        <label for="NameInput">Name of author </label>
+        <input name="name" type="text" class="form-control" id="nameIput" placeholder="Please enter the description" value="@Model.author.Name">
+    </div>
+    <div class="descriptionInput">
+        <label for="NameInput">Description </label>
+        <textarea type="text" class="form-control" id="descriptionInput" name="description"  cols="30" rows="10" value="">@Model.author.Description</textarea>
+
+    </div>
+    <br>
+    <a href="/Admin/Authors" class="btn btn-primary btn-icon-split btn-md">
+        <button type="button" class="btn btn-secondary" onclick="history.back()">Back</button>
+        <button type="submit" class="btn btn-primary btn-icon-split btn-md">
+            <span class="icon text-white-30">
+                <i class="fas fa-plus"></i>
+            </span>
+           
+                <span class="text">Update new author</span>
+</form>

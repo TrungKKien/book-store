@@ -1,0 +1,189 @@
+.content{
+    display: flex;
+}
+.content h5{
+    height: 60px;
+    border-bottom: 1px solid rgb(187, 187, 187);
+}
+.content-left{
+    padding: 0 10px; 
+    height: auto;
+}
+.content-left label{
+    padding: 5px 0;
+}
+.content-center{
+    padding: 0 5px;
+}
+.content-right{
+    padding: 0 5px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-family: 'helvetica'; */
+}
+.wrapper{
+    /* font-weight: 250; */
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+
+}
+.ma-qr{
+    /* position: fixed; */
+    display: none;
+    position: fixed;
+    top: 11%;
+    width: 390px;
+    left: 35%;
+    /* box-shadow: #424242; */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    /* box-shadow: inset 0 -5px 0 0 #000; */
+
+}
+.close-qr{
+    position: fixed;
+    top: 85%;
+    left: 43%;
+
+}
+.logo{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 1000;
+    margin:  50px auto;
+}
+
+.hotline-giohang{
+    display: flex;
+    position: absolute;
+    right: 20px;
+}
+.lienhe{
+    position: fixed;
+    background: #0004d8;
+    padding: 10px 20px;
+    width: 290px;
+    font-weight: 600;
+    color: antiquewhite;
+    bottom: 0;
+    right: 0;
+}
+.giohang{
+    position: fixed;
+    font-size: 40px;
+    top: 50px;
+    right: 20px;
+}
+.sticky{
+    display: block;
+    top: 0;
+    background-color: rgb(177, 14, 14);
+    position: fixed;
+    width: 100%;
+    transition: all 0.5s ease-in-out;
+    /* box-shadow: 0px 10px 10px rgb(191, 39, 39); */
+    
+    z-index: 10;
+}
+.slider{
+    position: relative;
+
+}
+header{
+    font-weight: 500;
+    z-index: 10;
+    width: 100%;
+    border-bottom: #6d6d6d solid 2px;
+    padding: 0 80px;
+    position: absolute;
+    height: 50px;
+    background: rgba(247, 247, 247, 0.38);
+}
+header ul{
+    text-align: center;
+    display: flex;
+}
+header ul li{
+    margin: auto;
+}
+header ul li a{
+    display: block;
+    padding: auto 0;
+    margin: auto;
+    color: #424242;
+
+}
+.danhsach{
+    background-color: black;
+    height: 50px;
+}
+.danhsach a{
+    display: block;
+    padding: 12px;
+}
+
+.menuCon{
+    z-index: 1;
+    transform: translateY(-130%);    
+    transition: all 0.5s ease-in-out;
+
+}
+.header-top{
+    z-index: 100;
+    height: 150px;
+    display: flex ;
+    position: relative;
+    background: white;
+}
+.open{
+    transform: translateY(0);
+    transition: all 0.5s ease-in-out;
+    display: block;
+}
+.danhsach ul{
+    padding: 0px;
+    display: block;
+    background: rgb(255, 255, 255);
+}
+.danhsach ul li{
+    display: block;
+    border-bottom: #6d6d6d solid 1px;
+}
+.home{
+    max-width: 100%;
+    padding: 20px 100px;
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+}
+.home div{
+    height: AUTO;
+    
+    font-size: 11px;
+    margin:  auto 0;
+    padding: 20px ;
+    line-height: 20px;
+
+    border: 1px solid rgb(187, 187, 187);
+    display: flex;
+    
+}
+
+.home div i{
+    line-height: 50px;
+    font-size: 40px;
+}
+.content-left{
+    height: auto;
+}

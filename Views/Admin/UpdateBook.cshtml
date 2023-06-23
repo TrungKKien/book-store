@@ -1,0 +1,67 @@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Book_Store.Controllers.AdminController.UpdateBookviewmodel
+
+<!-- Page Heading -->
+<h1 class="h3 mb-2 text-gray-800">Update Book</h1>
+<p class="mb-4">Insert a new author into database</p>
+<!-- End Page Heading -->
+<form action="/Admin/SaveUpdateBook?id=@Model.book.Id" method="post">
+    <div class="form-group">
+        <label for="nameInput">Name</label>
+        <input type="text" class="form-control" id="nameInput" name="Name" placeholder="" value="@Model.book.Name">
+    </div>
+    <div class="descriptionInput">
+        <label for="descriptionInput">Category</label>
+       @* <label for="cars">Choose a car:</label> *@
+        <select class="form-control" name="CategoryId" id="">
+            @foreach (var item in Model.categories)
+            {
+                <option class="form-control" value="@item.Id">@item.Name</option>
+                
+            }
+        </select>
+    </div>  
+    <div class="descriptionInput">
+        <label for="descriptionInput">Author</label>
+        <select class="form-control" name="AuthorId" id="">
+            @foreach (var item in Model.authors)
+            {
+                <option class="form-control" value="@item.Id">@item.Name</option>
+                
+            }
+        </select>
+    </div>
+      <div class="descriptionInput">
+        <label for="descriptionInput">img</label>
+        <input type="text" class="form-control" id="descriptionInput" name="Image" placeholder="" value="@Model.book.Image"> 
+    </div>
+      <div class="descriptionInput">
+        <label for="descriptionInput">price</label>
+        <input type="text" class="form-control" id="descriptionInput" name="Price" placeholder="" value="@Model.book.Price">
+    </div>
+      <div class="descriptionInput">
+        <label for="descriptionInput">number</label>
+        <input type="text" class="form-control" id="descriptionInput" name="Number" placeholder="" value="@Model.book.Number">
+    </div>
+      <div class="descriptionInput">
+        <label for="descriptionInput">Description</label>
+        <textarea type="text" class="form-control" id="descriptionInput" name="Discription"  cols="30" rows="10" value="">@Model.book.Discription</textarea>
+
+    </div>
+
+
+    <br>
+    <a href="/Admin/Books" class="btn btn-secondary btn-icon-split btn-md">
+        <span class="icon text-white-30">
+            <i class="fas fa-arrow-left"></i>
+        </span>
+        <span class="text">Back</span>
+    </a>
+    <button type="submit" class="btn btn-primary btn-icon-split btn-md">
+    <span class="icon text-white-30">
+        <i class="fas fa-plus"></i>
+    </span>
+    <span class="text">Update New book</span>
+</form>

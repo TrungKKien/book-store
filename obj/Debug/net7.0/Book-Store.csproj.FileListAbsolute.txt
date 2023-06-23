@@ -1,0 +1,647 @@
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\appsettings.Development.json
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\appsettings.json
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Book-Store.staticwebassets.runtime.json
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Book-Store.exe
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Book-Store.deps.json
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Book-Store.runtimeconfig.json
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Azure.Core.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Azure.Identity.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Google.Protobuf.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Humanizer.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\MySql.Data.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\ZstdNet.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\MySqlConnector.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.csproj.AssemblyReference.cache
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfoInputs.cache
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfo.cs
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CoreCompileInputs.cache
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.MvcApplicationPartsAssemblyInfo.cache
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cache
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cs
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.Book-Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book-Store.props
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book-Store.props
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book-Store.props
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\staticwebassets.pack.json
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\staticwebassets.build.json
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\staticwebassets.development.json
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\scopedcss\bundle\Book-Store.styles.css
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\scopedcss\projectbundle\Book-Store.bundle.scp.css
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CopyComplete
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\refint\Book-Store.dll
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\Book-Store.genruntimeconfig.cache
+D:\hocTap\C#\Book-Store\obj\Debug\net7.0\ref\Book-Store.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.csproj.AssemblyReference.cache
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfoInputs.cache
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfo.cs
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cache
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cs
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\refint\Book-Store.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.pdb
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\appsettings.json
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\jsconfig.json
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.staticwebassets.runtime.json
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.exe
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.deps.json
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.runtimeconfig.json
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.pdb
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Humanizer.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.Book-Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book-Store.props
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book-Store.props
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book-Store.props
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\scopedcss\bundle\Book-Store.styles.css
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\scopedcss\projectbundle\Book-Store.bundle.scp.css
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CopyComplete
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.genruntimeconfig.cache
+C:\Users\QUANG\Downloads\Book-Store (1)\Book-Store\obj\Debug\net7.0\ref\Book-Store.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\appsettings.Development.json
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\appsettings.json
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\jsconfig.json
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.staticwebassets.runtime.json
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.exe
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.deps.json
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.runtimeconfig.json
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Azure.Core.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Azure.Identity.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Google.Protobuf.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Humanizer.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\MySql.Data.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\ZstdNet.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\MySqlConnector.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.csproj.AssemblyReference.cache
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfoInputs.cache
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfo.cs
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CoreCompileInputs.cache
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.MvcApplicationPartsAssemblyInfo.cache
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cache
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cs
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.Book-Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book-Store.props
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book-Store.props
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book-Store.props
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets.pack.json
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets.build.json
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets.development.json
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\scopedcss\bundle\Book-Store.styles.css
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\scopedcss\projectbundle\Book-Store.bundle.scp.css
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CopyComplete
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\refint\Book-Store.dll
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.genruntimeconfig.cache
+D:\hocTap\C#\doan\Book-Store\Book-Store\obj\Debug\net7.0\ref\Book-Store.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\appsettings.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\jsconfig.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.staticwebassets.runtime.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.exe
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.deps.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.runtimeconfig.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Book-Store.pdb
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Humanizer.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.csproj.AssemblyReference.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfoInputs.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfo.cs
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cs
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.Book-Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book-Store.props
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book-Store.props
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book-Store.props
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\scopedcss\bundle\Book-Store.styles.css
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\scopedcss\projectbundle\Book-Store.bundle.scp.css
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CopyComplete
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\refint\Book-Store.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.pdb
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\Book-Store.genruntimeconfig.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store (1)\Book-Store\obj\Debug\net7.0\ref\Book-Store.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\appsettings.Development.json
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\appsettings.json
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\jsconfig.json
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Book-Store.staticwebassets.runtime.json
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Book-Store.exe
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Book-Store.deps.json
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Book-Store.runtimeconfig.json
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Azure.Core.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Azure.Identity.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Google.Protobuf.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Humanizer.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\MySql.Data.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\ZstdNet.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\MySqlConnector.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.csproj.AssemblyReference.cache
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfoInputs.cache
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfo.cs
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CoreCompileInputs.cache
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.MvcApplicationPartsAssemblyInfo.cache
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cache
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cs
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.Book-Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book-Store.props
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book-Store.props
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book-Store.props
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\staticwebassets.pack.json
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\staticwebassets.build.json
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\staticwebassets.development.json
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\scopedcss\bundle\Book-Store.styles.css
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\scopedcss\projectbundle\Book-Store.bundle.scp.css
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CopyComplete
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\refint\Book-Store.dll
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\Book-Store.genruntimeconfig.cache
+D:\hocTap\C#\doan\banHangOnl\Book-Store\obj\Debug\net7.0\ref\Book-Store.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\appsettings.Development.json
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\appsettings.json
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\jsconfig.json
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Book-Store.staticwebassets.runtime.json
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Book-Store.exe
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Book-Store.deps.json
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Book-Store.runtimeconfig.json
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Azure.Core.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Azure.Identity.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Google.Protobuf.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Humanizer.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\MySql.Data.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\ZstdNet.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\MySqlConnector.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\doan\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.csproj.AssemblyReference.cache
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfoInputs.cache
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfo.cs
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CoreCompileInputs.cache
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.MvcApplicationPartsAssemblyInfo.cache
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cache
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cs
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.Book-Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book-Store.props
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book-Store.props
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book-Store.props
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\staticwebassets.pack.json
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\staticwebassets.build.json
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\staticwebassets.development.json
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\scopedcss\bundle\Book-Store.styles.css
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\scopedcss\projectbundle\Book-Store.bundle.scp.css
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CopyComplete
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\refint\Book-Store.dll
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\Book-Store.genruntimeconfig.cache
+D:\hocTap\C#\doan\Book-Store\obj\Debug\net7.0\ref\Book-Store.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\appsettings.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\jsconfig.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.staticwebassets.runtime.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.exe
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.deps.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.runtimeconfig.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.pdb
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Humanizer.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.csproj.AssemblyReference.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfoInputs.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfo.cs
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cs
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.Book-Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book-Store.props
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book-Store.props
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book-Store.props
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\scopedcss\bundle\Book-Store.styles.css
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\scopedcss\projectbundle\Book-Store.bundle.scp.css
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CopyComplete
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\refint\Book-Store.dll
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.pdb
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.genruntimeconfig.cache
+C:\Users\QUANG\Documents\Zalo Received Files\Book-Store\Book-Store\obj\Debug\net7.0\ref\Book-Store.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\appsettings.Development.json
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\appsettings.json
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\jsconfig.json
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.staticwebassets.runtime.json
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.exe
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.deps.json
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.runtimeconfig.json
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Azure.Core.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Azure.Identity.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Google.Protobuf.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Humanizer.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\MySql.Data.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\ZstdNet.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\MySqlConnector.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.csproj.AssemblyReference.cache
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfoInputs.cache
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.AssemblyInfo.cs
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CoreCompileInputs.cache
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.MvcApplicationPartsAssemblyInfo.cache
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cache
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.RazorAssemblyInfo.cs
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.Book-Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book-Store.props
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book-Store.props
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book-Store.props
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets.pack.json
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets.build.json
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\staticwebassets.development.json
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\scopedcss\bundle\Book-Store.styles.css
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\scopedcss\projectbundle\Book-Store.bundle.scp.css
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.csproj.CopyComplete
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\refint\Book-Store.dll
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.pdb
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\Book-Store.genruntimeconfig.cache
+D:\hocTap\C#\doan\2055010142_HoangTrungKien\Book-Store\Book-Store\Book-Store\obj\Debug\net7.0\ref\Book-Store.dll

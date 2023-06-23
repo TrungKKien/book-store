@@ -1,0 +1,65 @@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Book_Store.Controllers.AdminController.AuthorsViewModel
+<!-- Page Heading -->
+<h1 class="h3 mb-2 text-gray-800">Authors</h1>
+<p class="mb-4">Show list of Author from Database</p>
+
+<!-- End Page Heading -->
+<a style="margin-bottom: 20px;" href="/admin/CreateAuthor" class="btn btn-primary btn-icon-split btn-sm">
+    <span class="icon text-white-30">
+        <i class="fas fa-plus"></i>
+    </span>
+    <span class="text">Add new Author</span>
+</a>
+                    <!-- Page Heading -->
+                <div class="container-fluid">
+                    <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
+                        <div class="card-header py-3">
+                            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th>Name</th>
+                                            <th>Description</th>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                            <th>Name</th>
+                                            <th>Description</th>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        @foreach (var item in Model.authors)
+                                        {
+                                        <tr>
+                                            <td>@item.Name</td>
+                                            <td>@item.Description</td>
+                                            <td>
+                                                <a href="/Admin/UpdateAuthor?id=@item.Id" class="btn btn-info btn-icon-split">
+                                                    <span class="icon text-white-50">
+                                                        <i class="fas fa-edit"></i>
+                                                    </span>
+                                                    <span class="text"></span>
+                                                </a>
+                                                <a href="/Admin/DeleteAuthor/@item.Id" class="btn btn-danger btn-icon-split">
+                                                    <span class="icon text-white-50">
+                                                        <i class="fas fa-trash"></i>
+                                                    </span>
+                                                    <span class="text"></span>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>

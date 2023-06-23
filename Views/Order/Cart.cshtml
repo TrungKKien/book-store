@@ -1,0 +1,165 @@
+@{
+    Layout = "~/Views/Shared/_OrderLayout.cshtml";
+
+}
+    @using System.Web
+    <div class="ma-qr">
+
+        <img class="ma-qr" src="" alt="">
+        <span class="close-qr" style="top: 10%;left: 64%;font-size: 33px;">x</span>
+        <button type="button" class="btn btn-primary thanhCong close-qr">THANH TOÁN THÀNH CÔNG</button>
+    </div>
+    <form class="form-group" style="    height: auto;
+    border-bottom: 1px solid rgb(202, 202, 202);
+    padding-bottom: 29px;s" action="" method="POST" enctype="multipart/form-data">
+        <div class="row">
+            <div class="content">
+                    <div class="col-md-3 content-left">
+                        <h5>THÔNG TIN NGƯỜI NHẬN</h5>
+                        <label for="">HỌ TÊN</label>
+                        <input class="form-control" type="text" name="name" id="name">
+
+                        <label for="">SỐ ĐIỆN THOẠI</label>
+                        <input class="form-control" type="text" name="phone" id="phone">
+                        
+                        <label for="">ĐỊA CHỈ NHÂN HÀNG</label>
+                        <input class="form-control" type="text" name="address" id="address">
+
+                    </div>
+                    <div class="col-md-3 content-center">
+                        <h5>HÌNH THỨC THANH TOÁN</h5>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                                THANH TOÁN BẰNG MÃ QR
+                            </label>
+                        </div>
+                        
+                    </div>
+                    <div class="col-md-6 content-right">
+                        <h5>ĐƠN HÀNG </h5>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">SẢN PHẨM</th>
+                                    <th scope="col">SỐ LƯỢNG</th>
+                                    <th scope="col">GIÁ (VND)</th>
+                                    <th scope="col">CHỌN</th>
+                                </tr>
+                            </thead>
+                            <tbody id="parent">
+                                @{
+                                    int priceplus = 15000;
+                                }
+                                @foreach (var item in Model.Orders)
+                                {
+                                    <tr >
+                                        @if(@item.Status == 0){
+                                            @foreach (var item1 in Model.Books)
+                                            {
+                                                if(@item1.Id == @item.BookId)
+                                                {
+                                                    <th class="cart" name="@item.Id" scope="row">@item1.Name</th>
+                                                    <td >@item.Number</td>
+                                                    var price = 0;
+                                                    price = @item1.Price * @item.Number ;
+                                                    priceplus = priceplus + price;
+                                                    <td>@price (vnđ)</td>
+                                                }
+                                            }
+                                            <td><a style="padding: 0 5px;" href="Delete?id=@item.Id&userId=" id="" class="dele btn btn-danger btn-icon-split">
+                                                <span class="text">x</span>
+                                            </a></td>
+                                        }
+                                    </tr>
+                                }
+                                <tr>
+                                    <th scope="row"></th>
+                                    <td colspan="1">Phí Vận Chuyển:</td>
+                                    <td colspan="1">15.000</td>
+                                    <td colspan="1">VND</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row"></th>
+                                    <td colspan="1">Tổng Hóa Đơn:</td>
+                                    <td colspan="1" class="@priceplus" id="plusprice">@priceplus</td>
+                                    <td colspan="1">VND</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <button type="button" id="thanhToan" class="btn btn-primary">Đặt Hàng</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <div class="ordered-at">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">SẢN PHẨM</th>
+                        <th scope="col">SỐ LƯỢNG</th>
+                        <th scope="col">GIÁ (VND)</th>
+                        <th scope="col">TRẠNG THÁI</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Orders)
+                    {
+                        <tr>
+                            @if(@item.Status == 1)
+                            {
+                                @foreach (var item1 in Model.Books)
+                                {
+                                    if(@item1.Id == @item.BookId)
+                                    {
+                                        <th scope="row">@item1.Name</th>
+                                        <td>@item.Number</td>
+                                            var price = 0;
+                                            price = @item1.Price * @item.Number ;
+                                        <td>@price (vnđ)</td>
+                                        <td>Đang sử lý</td>
+                                    }
+                                }
+                            }
+                            @if(@item.Status == 2)
+                            {
+                                @foreach (var item1 in Model.Books)
+                                {
+                                    if(@item1.Id == @item.BookId)
+                                    {
+                                        <th scope="row">@item1.Name</th>
+                                        <td>@item.Number</td>
+                                            var price = 0;
+                                            price = @item1.Price * @item.Number ;
+                                        <td>@price (vnđ)</td>
+                                        <td style="color: rgb(136, 136, 136);">Trên đường giao đến cho bạn</td>
+                                        <td> <button type="button" id="xacNhan"><a href="/Order/Updatecart?idcart=@item.Id&status=3&number=0">Đã nhận được sách</a></button> </td>   
+                                    }
+                                }
+                            }
+                        </tr>
+                    }
+                    @foreach (var item in Model.Orders)
+                    {
+                        <tr>
+                            @if(@item.Status == 3)
+                            {
+                                @foreach (var item1 in Model.Books)
+                                {
+                                    if(@item1.Id == @item.BookId)
+                                    {
+                                        <th scope="row">@item1.Name</th>
+                                        <td>@item.Number</td>
+                                            var price = 0;
+                                            price = @item1.Price * @item.Number ;
+                                        <td>@price (vnđ)</td>
+                                        <td style="color: rgb(83, 83, 83);">Đã nhận được Sách</td>
+                                        <td> <button type="button"><a href="/bookstore/chitiet?id=@item1.Id&book=@item1.Name">MUA LẠI</a></button> </td>   
+                                    }
+                                }
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>

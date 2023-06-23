@@ -1,0 +1,30 @@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Book_Store.Controllers.AdminController.FormSaveNewAuthor
+<!-- Page Heading -->
+<h1 class="h3 mb-2 text-gray-800">Create New Author</h1>
+<p class="mb-4">Insert a new author into database</p>
+<!-- End Page Heading -->
+<form action="/Admin/SaveNewAuthor" method="post">
+    <div class="form-group">
+        <label for="nameInput">Name of new author</label>
+        <input type="text" class="form-control" id="nameInput" name="name" placeholder="Please enter name of the new author">
+    </div>
+    <div class="descriptionInput">
+        <label for="descriptionInput">Description</label>
+        <textarea type="text" class="form-control" id="descriptionInput" name="description"  cols="30" rows="10" ></textarea>
+    </div>
+    <br>
+    <a href="/Admin/Authors" class="btn btn-secondary btn-icon-split btn-md">
+        <span class="icon text-white-30">
+            <i class="fas fa-arrow-left"></i>
+        </span>
+        <span class="text">Back</span>
+    </a>
+    <button type="submit" class="btn btn-primary btn-icon-split btn-md">
+    <span class="icon text-white-30">
+        <i class="fas fa-plus"></i>
+    </span>
+    <span class="text">Create New author</span>
+</form>

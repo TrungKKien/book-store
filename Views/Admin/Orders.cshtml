@@ -1,0 +1,133 @@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Book_Store.Controllers.AdminController.OrdersViewModel
+<!-- Page Heading -->
+<h1 class="h3 mb-2 text-gray-800">Orders List</h1>
+
+                    <!-- Page Heading -->
+                <div class="container-fluid">
+                    <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
+                        <div class="card-header py-3">
+                            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th>Mã ĐH</th>
+                                            <th>Name</th>
+                                            <th>Phone number</th>
+                                            <th>Address</th>
+                                            <th>Name book</th>
+                                            <th>Image</th>
+                                            <th>Number</th>
+                                            <th>Price</th> 
+                                            <th>Status</th> 
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var order in Model.orders)
+                                        {
+                                            if(@order.Status == 0)
+                                            {
+
+                                            }if(@order.Status == 1)
+                                            {
+                                                <tr> 
+                                                    <td>@order.Id</td>
+                                                    @foreach(var item2 in Model.users) 
+                                                    {
+                                                        if(@item2.Id == @order.UserId)
+                                                        {
+                                                            <td>@item2.Name</td>
+                                                            <td>@item2.PhoneNumber</td>
+                                                            <td>@item2.Address</td>
+                                                        }
+                                                    }
+                                                    @foreach (var item1 in Model.Books)
+                                                    {
+                                                        if(@order.BookId == @item1.Id )
+                                                        {
+                                                            <td> @item1.Name</td>
+                                                            <td ><img style="width: 100px;" src="@item1.Image" alt=""></td>
+                                                            <td>@order.Number</td>
+                                                            var price = 0;
+                                                            price = @item1.Price * @order.Number;
+                                                            <td>@price (vnđ)</td>
+                                                            <td><button type="button" class="btn btn-primary"><a href="/Order/Updatecart?idcart=@order.Id&status=2&number=@order.Number&idbook=@item1.Id" style="color: white;"> Gửi Sách</a></button></td>
+                                                        }
+                                                    }  
+                                                </tr> 
+                                            }
+                                        }
+                                        @foreach (var order in Model.orders)
+                                        {
+                                            if(@order.Status == 2)
+                                            {
+                                                <tr> 
+                                                    <td>@order.Id</td>
+                                                    @foreach(var item2 in Model.users) 
+                                                    {
+                                                        if(@item2.Id == @order.UserId)
+                                                        {
+                                                            <td>@item2.Name</td>
+                                                            <td>@item2.PhoneNumber</td>
+                                                            <td>@item2.Address</td>
+                                                        }
+                                                    }
+                                                    @foreach (var item1 in Model.Books)
+                                                    {
+                                                        if(@order.BookId == @item1.Id )
+                                                        {
+                                                            <td> @item1.Name</td>
+                                                            <td ><img style="width: 100px;" src="@item1.Image" alt=""></td>
+                                                            <td>@order.Number</td>
+                                                            var price = 0;
+                                                            price = @item1.Price * @order.Number ;
+                                                            <td>@price (vnđ)</td>
+                                                        }
+                                                    }   
+                                                    <td>Sách Đang Được Vận Chuyển</td>
+                                                </tr> 
+                                            }
+                                        }
+                                        @foreach (var order in Model.orders)
+                                        {
+                                            if(@order.Status == 3)
+                                            {
+                                                <tr> 
+                                                    <td>@order.Id</td>
+                                                    @foreach(var item2 in Model.users) 
+                                                    {
+                                                        if(@item2.Id == @order.UserId)
+                                                        {
+                                                            <td>@item2.Name</td>
+                                                            <td>@item2.PhoneNumber</td>
+                                                            <td>@item2.Address</td>
+                                                        }
+                                                    }
+                                                    @foreach (var item1 in Model.Books)
+                                                    {
+                                                        if(@order.BookId == @item1.Id )
+                                                        {
+                                                            <td> @item1.Name</td>
+                                                            <td ><img style="width: 100px;" src="@item1.Image" alt=""></td>
+                                                            <td>@order.Number</td>
+                                                            var price = 0;
+                                                            price = @item1.Price * @order.Number ;
+                                                            <td>@price (vnđ)</td>
+                                                        }
+                                                    }  
+                                                    <td>Người đặt đã nhận được Sách</td>
+                                                </tr> 
+                                            }
+                                       }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
