@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/nm3P+sTofZYhVxtGZdfB77ErqOd4zwOfk2BA+pvxFPTP4G7a7uoAqoJSFH9bZmJtH4vUlubBpkhkO+nc7caOA==",
+  "dgSpecHash": "SZ0tffNzwYrt9jgapj+aORpeflYET1cFLqlXyAG1aS0dMXdAMUfuypyv7UUSFuWiX1ihojgou2W6XvgcP/muog==",
   "success": true,
-  "projectFilePath": "D:\\hocTap\\C#\\doan\\2055010142_HoangTrungKien\\Book-Store\\Book-Store\\Book-Store\\Book-Store.csproj",
+  "projectFilePath": "D:\\hocTap\\C#\\doan\\nhóm7-xayDungWebSiteBanSach\\Book-Store\\Book-Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

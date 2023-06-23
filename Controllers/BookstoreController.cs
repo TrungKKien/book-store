@@ -102,6 +102,22 @@ public class BookstoreController : Controller
         return new EmptyResult();
     }
 
+    public IActionResult Lienhe()
+    {
+        using (var db = new book_storeContext())
+        {
+            
+            var categoriesauthorsViewModel = new CategoriesAuthorsBooksViewModel{
+                books = db.Books.ToList(),
+                categories = db.Categories.ToList(),
+                authors = db.Authors.ToList()
+            };
+            return View(categoriesauthorsViewModel);
+        }
+        
+        return View();
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

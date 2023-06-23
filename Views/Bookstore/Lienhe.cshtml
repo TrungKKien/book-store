@@ -1,0 +1,88 @@
+@{
+    ViewData["Title"] = "Home Page";
+    
+}
+
+            <div class="slider">
+                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-indicators" >
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        @* <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button> *@
+                    </div>
+                    <div class="carousel-inner" style="max-height: 515px;">
+                        <div class="carousel-item active">
+                            <img src="../../home/img/slide-2-1.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../../home/img/banner-sach-3.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../../home/img/banner-sach-3 (1).jpg" class="d-block w-100" alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+            <div class="products">
+                <div class="search">
+                        <form action="/Bookstore/Search" method="get">
+                    <div class="input-group mb-3">
+                            <input type="text" name="s" class="form-control" placeholder="Tìm kiếm sản phẩm" aria-label="Recipient's username" aria-describedby="basic-addon2">
+                            <div class="input-group-append">
+                                <button style="height:37px" class="btn fa-solid fa-magnifying-glass btn-outline-secondary" type="submit"></button>
+                            </div>
+                    </div>
+                        </form>
+                </div>
+
+                <h1 style="background: white;">Liên hệ với chúng tôi</h1>
+                <h2>Để được tư vấn và hỗ trợ đặt hàng nhanh chóng nhất</h2>
+                <div class="container">
+                    <div class="row">
+                        <div class="container">
+                            
+                        </div>
+                    </div>
+                </div>
+                    <div class="footer-top">BOOK STORE</div>
+                        <div class="msv" style="margin : 15px">NHÓM: 7</div>
+                <div class="footer">
+                    <div class="group">
+                        <div class="msv">THÀNH VIÊN:</div>
+                        <div class="thanhvien">
+                            <div>Hoàng Trung Kiên</div>
+                            <div>Nguyễn Ngọc Hải</div>
+                            <div>Hoàng Công Quang</div>
+                            <div>Nguyễn Ngọc Phương</div>
+                            <div>Nguyễn Danh Thịnh</div>
+                        </div>
+                    </div>
+                    <div class="group">
+                        <div class="msv">MÃ SINH VIÊN:</div>
+                            <div>2055010142</div>
+                            <div>20550101</div>
+                            <div>2055010</div>
+                            <div>2055010</div>
+                            <div>2055010</div>
+                        </div>
+                    @* </div> *@
+                    <div class="group">
+                        <div class="msv">LIÊN HỆ:</div>
+                        <div>0869269935</div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </div>
+            </div>
+            @* </div> *@

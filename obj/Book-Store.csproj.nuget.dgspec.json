@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hocTap\\C#\\doan\\2055010142_HoangTrungKien\\Book-Store\\Book-Store\\Book-Store\\Book-Store.csproj": {}
+    "D:\\hocTap\\C#\\doan\\nhóm7-xayDungWebSiteBanSach\\Book-Store\\Book-Store.csproj": {}
   },
   "projects": {
-    "D:\\hocTap\\C#\\doan\\2055010142_HoangTrungKien\\Book-Store\\Book-Store\\Book-Store\\Book-Store.csproj": {
+    "D:\\hocTap\\C#\\doan\\nhóm7-xayDungWebSiteBanSach\\Book-Store\\Book-Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hocTap\\C#\\doan\\2055010142_HoangTrungKien\\Book-Store\\Book-Store\\Book-Store\\Book-Store.csproj",
+        "projectUniqueName": "D:\\hocTap\\C#\\doan\\nhóm7-xayDungWebSiteBanSach\\Book-Store\\Book-Store.csproj",
         "projectName": "Book-Store",
-        "projectPath": "D:\\hocTap\\C#\\doan\\2055010142_HoangTrungKien\\Book-Store\\Book-Store\\Book-Store\\Book-Store.csproj",
+        "projectPath": "D:\\hocTap\\C#\\doan\\nhóm7-xayDungWebSiteBanSach\\Book-Store\\Book-Store.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\hocTap\\C#\\doan\\2055010142_HoangTrungKien\\Book-Store\\Book-Store\\Book-Store\\obj\\",
+        "outputPath": "D:\\hocTap\\C#\\doan\\nhóm7-xayDungWebSiteBanSach\\Book-Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
