@@ -159,31 +159,34 @@ public class AdminController : Controller
             var Authors = db.Authors.ToList();
             //b3 ganw laij duwx lieeuj vao doi tuong
             authorsViewModel.authors = Authors;
-            //b4 return l
+            //b4 return ra view
             return View(authorsViewModel);
         }
         return View();
     }
 
+    //gọi view tạo mới author
     public IActionResult CreateAuthor()
     {
         return View();
     }
 
-
+    //nhận dữ liệu từ form và lưu vào database
     [HttpPost]
     public RedirectResult SaveNewAuthor(FormSaveNewAuthor formData)
     {
         if (formData.name != null)
         {
+            // khởi tạo biến db từ lớp book store
             using (var db = new book_storeContext())
             {
-                // push data vào database
+                // push dữ liệu từ form  vào database
                 db.Authors.Add(new Author
                 {
                     Name = formData.name,
                     Description = formData.description
                 });
+                
                 db.SaveChanges();
                 // back to categories views
                 return new RedirectResult(url: "/admin/Authors");
@@ -192,11 +195,12 @@ public class AdminController : Controller
         return new RedirectResult(url: "/admin/createAuthor");
     }
 
-
+    //gọi view update author
     public IActionResult UpdateAuthor(int id)
     {
         using (var db = new book_storeContext())
         {
+            // tìm tác giả muốn sửa theo id tấc giả
             var Author = db.Authors.Where(c => c.Id == id).FirstOrDefault();
             if (Author != null)
             {
@@ -208,6 +212,8 @@ public class AdminController : Controller
         }
 
     }
+
+    //lưu update vào data
     public RedirectResult SaveUpdateAuthor(FormSaveNewAuthor formData, int id)
         {
             if (formData.name != null)
@@ -232,7 +238,6 @@ public class AdminController : Controller
             var author = db.Authors.Where(c => c.Id == id).FirstOrDefault();
             if (author != null)
             {
-
                 db.Authors.Remove(author);
                 db.SaveChanges();
             }
@@ -264,6 +269,9 @@ public class AdminController : Controller
             }
             return View();
         }
+
+
+        // thêm một quyển sachs mới vào data
       public IActionResult CreateBook()
         {
             using (var db = new book_storeContext())
@@ -277,11 +285,14 @@ public class AdminController : Controller
             
             return View();
         }
+
+        // nhận thông tưd form và lưu vào data
        [HttpPost]
     public RedirectResult SaveNewBook(FormSaveNewBook formData)
         {
             if (formData.Name != null)
             {
+                
                 using (var db = new book_storeContext())
                 {
                     // push data vào database
@@ -320,13 +331,15 @@ public class AdminController : Controller
         }
 
     }
-
+    // lưu thông tin update vào database
     public RedirectResult SaveUpdateBook(FormSaveNewBook formdata, int id)
         {
             if (formdata.Name != null)
             {
+                // tạo biến db từ lớp book_store
                 using (var db = new book_storeContext())
                 {
+
                     var newBook = db.Books.FirstOrDefault(c => c.Id == id);
                         newBook.Name = formdata.Name;
                         newBook.CategoryId = formdata.CategoryId;
@@ -348,13 +361,13 @@ public class AdminController : Controller
     {
         using (var db = new book_storeContext())
         {
-            var author = db.Authors.Where(c => c.Id == id).FirstOrDefault();
-            if (author != null)
+            var book = db.Books.Where(c => c.Id == id).FirstOrDefault();
+            if (book != null)
             {
-                db.Authors.Remove(author);
+                db.Books.Remove(book);
                 db.SaveChanges();
             }
-            return new RedirectResult(url: "/Admin/Authors");
+            return new RedirectResult(url: "/Admin/books");
         }
     }
 

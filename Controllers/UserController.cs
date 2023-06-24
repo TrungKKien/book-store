@@ -142,24 +142,30 @@ public class UserController : Controller
     {
         using (var db = new book_storeContext())
         {
-            var userUpdate = db.Users.FirstOrDefault(c => c.Id == id);
-            if (userUpdate != null)
-            {
-                if(formData.name != null || formData.address != null || formData.phone != null){
-                    userUpdate.Name = formData.name;
-                    userUpdate.PhoneNumber = formData.phone;
-                    userUpdate.Address = formData.address;
+            var check = db.Users.FirstOrDefault(c => c.PhoneNumber == formData.phone);
+            if(check == null){
 
-                    db.Users.Attach(userUpdate);
+                var userUpdate = db.Users.FirstOrDefault(c => c.Id == id);
+                if (userUpdate != null)
+                {
+                    if(formData.name != null || formData.address != null || formData.phone != null){
+                        userUpdate.Name = formData.name;
+                        userUpdate.PhoneNumber = formData.phone;
+                        userUpdate.Address = formData.address;
 
-                    db.SaveChanges();
-                    return new RedirectResult(url: "/user/login");
-                }else{
+                        db.Users.Attach(userUpdate);
+
+                        db.SaveChanges();
+                        return new RedirectResult(url: "/user/login");
+                    }else{
+                    }
                     // return new RedirectResult(url: "/user/edit/id=");
                     // return RedirectToAction("edit", "User", new { id = id });
                     return RedirectToAction("edit", "User", new { id = id });   
                 }
 
+            }else{
+                return RedirectToAction("edit", "User", new { id = id });
             }
             return new RedirectResult(url: "/");
         }
